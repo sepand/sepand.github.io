@@ -30,8 +30,6 @@ nav:
   - Home: index.md
   - AWS Best Practices: guides/aws/index.md
   - Azure Best Practices: guides/azure/index.md
-  - GCP Best Practices: guides/gcp/index.md
-  - Container Best Practices: guides/container/index.md
-  - Contributors: contributors.md
+
 plugins:
     - search
