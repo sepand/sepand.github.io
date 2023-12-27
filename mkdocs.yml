@@ -4,7 +4,7 @@ repo_url: https://github.com/sepand/sepand.github.io
 docs_dir: 'docs/en'
 copyright: 'Copyright &copy; Sepand'
 site_author: 'Sepand'
-site_url: 'https://sepand.github.io/'
+site_url: 'https://sepand.github.io/sepand.github.io'
 theme:
   name: material
   custom_dir: overrides
