@@ -16,7 +16,7 @@ public class FooService {
 }
 ```
 
-``` yaml linenums="1"
+``` yaml
 theme:
   features:
     - content.code.annotate # (1)
