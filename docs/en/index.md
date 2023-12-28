@@ -26,6 +26,17 @@ theme:
     text__, images, ... basically anything that can be written in Markdown.
 
     
+
+???+ danger
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
+
+
+
 ## Sample
 
 One more, finally. Or not? :)
