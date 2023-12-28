@@ -6,7 +6,7 @@ My collection of best practices
 
 
 
-
+```java
 public class FooService {
 
     public void doFoo() {
@@ -14,6 +14,7 @@ public class FooService {
     }
 
 }
+```
 
 ## Sample
 
@@ -21,7 +22,7 @@ One more, finally. Or not? :)
 
 Now:
 
-```
+```shell
 $ some 
 ```
 
