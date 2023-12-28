@@ -29,11 +29,6 @@ theme:
         icon: material/brightness-4
         name: switch to light mode
 
-nav:
-  - Home: index.md
-  - AWS Best Practices: guides/aws/index.md
-  - Azure Best Practices: guides/azure/index.md
-
 plugins:
     - search
 
@@ -86,3 +81,11 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - AWS: 
+    - guides/aws/index.md
+    - IAM: guides/aws/iam.md
+  
+  - Azure Best Practices: guides/azure/index.md
