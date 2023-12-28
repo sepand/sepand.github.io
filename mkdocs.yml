@@ -33,7 +33,6 @@ nav:
 
 plugins:
     - search
-    - codeinclude
 
 markdown_extensions:
   - pymdownx.highlight:
