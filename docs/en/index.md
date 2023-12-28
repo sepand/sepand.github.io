@@ -6,7 +6,7 @@ My collection of best practices
 
 
 
-```java
+```java title="FooService" linenums="1" hl_lines="2 3"
 public class FooService {
 
     public void doFoo() {
@@ -16,6 +16,16 @@ public class FooService {
 }
 ```
 
+``` yaml linenums="1"
+theme:
+  features:
+    - content.code.annotate # (1)
+```
+
+1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted
+    text__, images, ... basically anything that can be written in Markdown.
+
+    
 ## Sample
 
 One more, finally. Or not? :)
