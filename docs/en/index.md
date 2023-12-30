@@ -63,6 +63,7 @@ stateDiagram-v2
     State4 --> [*]
 ```
 Task list
+
 - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
 - [ ] Vestibulum convallis sit amet nisi a tincidunt
     * [x] In hac habitasse platea dictumst
