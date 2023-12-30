@@ -8,7 +8,7 @@ site_author: 'Sepand'
 site_url: 'https://sepand.github.io'
 theme:
   name: material
-  ##custom_dir: overrides
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
     annotation: material/arrow-right-circle
