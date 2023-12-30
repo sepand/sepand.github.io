@@ -1,7 +1,7 @@
 # https://squidfunk.github.io/mkdocs-material/
 site_name: CSP Security Services Best Practices
-#repo_name: sepand/security-services-best-practices
-#repo_url: https://github.com/sepand/sepand.github.io
+repo_name: sepand/security-services-best-practices
+repo_url: https://github.com/sepand/sepand.github.io
 docs_dir: 'docs/en'
 copyright: 'Copyright &copy; Sepand'
 site_author: 'Sepand'
